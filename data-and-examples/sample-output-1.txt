@@ -1,0 +1,110 @@
+Reading list of words from /Users/marcin/Desktop/words_alpha.txt
+Loading the dictionary completed
+tablet
+Lookup request: LookupRequest[prefix=tablet, lastSeen=, maxResults=3]
+Dictionary returned matching words (page 1)
+	- tablet
+	- tabletary
+	- tableted
+Lookup request: LookupRequest[prefix=tablet, lastSeen=tableted, maxResults=3]
+Dictionary returned matching words (page 2)
+	- tableting
+	- tabletop
+	- tabletops
+Lookup request: LookupRequest[prefix=tablet, lastSeen=tabletops, maxResults=3]
+Dictionary returned matching words (page 3)
+	- tablets
+	- tabletted
+	- tabletting
+Lookup request: LookupRequest[prefix=tablet, lastSeen=tabletting, maxResults=3]
+
+
+table
+Lookup request: LookupRequest[prefix=table, lastSeen=, maxResults=3]
+Dictionary returned matching words (page 1)
+	- table
+	- tableau
+	- tableaus
+Lookup request: LookupRequest[prefix=table, lastSeen=tableaus, maxResults=3]
+Dictionary returned matching words (page 2)
+	- tableaux
+	- tablecloth
+	- tablecloths
+Lookup request: LookupRequest[prefix=table, lastSeen=tablecloths, maxResults=3]
+Dictionary returned matching words (page 3)
+	- tableclothwise
+	- tableclothy
+	- tabled
+Lookup request: LookupRequest[prefix=table, lastSeen=tabled, maxResults=3]
+Dictionary returned matching words (page 4)
+	- tablefellow
+	- tablefellowship
+	- tableful
+Lookup request: LookupRequest[prefix=table, lastSeen=tableful, maxResults=3]
+Dictionary returned matching words (page 5)
+	- tablefuls
+	- tablehopped
+	- tablehopping
+Lookup request: LookupRequest[prefix=table, lastSeen=tablehopping, maxResults=3]
+Dictionary returned matching words (page 6)
+	- tableity
+	- tableland
+	- tablelands
+Lookup request: LookupRequest[prefix=table, lastSeen=tablelands, maxResults=3]
+Dictionary returned matching words (page 7)
+	- tableless
+	- tablelike
+	- tablemaid
+Lookup request: LookupRequest[prefix=table, lastSeen=tablemaid, maxResults=3]
+Dictionary returned matching words (page 8)
+	- tablemaker
+	- tablemaking
+	- tableman
+Lookup request: LookupRequest[prefix=table, lastSeen=tableman, maxResults=3]
+Dictionary returned matching words (page 9)
+	- tablemate
+	- tablement
+	- tablemount
+Lookup request: LookupRequest[prefix=table, lastSeen=tablemount, maxResults=3]
+Dictionary returned matching words (page 10)
+	- tabler
+	- tables
+	- tablesful
+Lookup request: LookupRequest[prefix=table, lastSeen=tablesful, maxResults=3]
+Dictionary returned matching words (page 11)
+	- tablespoon
+	- tablespoonful
+	- tablespoonfuls
+Lookup request: LookupRequest[prefix=table, lastSeen=tablespoonfuls, maxResults=3]
+Dictionary returned matching words (page 12)
+	- tablespoons
+	- tablespoonsful
+	- tablet
+Lookup request: LookupRequest[prefix=table, lastSeen=tablet, maxResults=3]
+Dictionary returned matching words (page 13)
+	- tabletary
+	- tableted
+	- tableting
+Lookup request: LookupRequest[prefix=table, lastSeen=tableting, maxResults=3]
+Dictionary returned matching words (page 14)
+	- tabletop
+	- tabletops
+	- tablets
+Lookup request: LookupRequest[prefix=table, lastSeen=tablets, maxResults=3]
+Dictionary returned matching words (page 15)
+	- tabletted
+	- tabletting
+	- tableware
+Lookup request: LookupRequest[prefix=table, lastSeen=tableware, maxResults=3]
+Dictionary returned matching words (page 16)
+	- tablewise
+Lookup request: LookupRequest[prefix=table, lastSeen=tablewise, maxResults=3]
+
+
+pancake
+Lookup request: LookupRequest[prefix=pancake, lastSeen=, maxResults=3]
+Dictionary returned matching words (page 1)
+	- pancake
+	- pancaked
+	- pancakes
+Lookup request: LookupRequest[prefix=pancake, lastSeen=pancakes, maxResults=3]
