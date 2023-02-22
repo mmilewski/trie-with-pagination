@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e10b2a64-106e-4223-a96f-dd6b9f1d1be7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-and-examples/sample-output-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MainCLI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dictionary/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dictionary/TrieNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dictionary/TrieNodeVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/dictionary/DictionaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/dictionary/DictionaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/dictionary/DictionaryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +82,12 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.untitled4 [clean]">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data-and-examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.DictionaryTest">
     <configuration name="org.example.MainCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.MainCLI" />
       <module name="untitled4.main" />
@@ -212,10 +199,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DictionaryTest" />
+        <item itemvalue="Gradle.untitled4 [jar]" />
         <item itemvalue="Gradle.untitled4 [clean]" />
         <item itemvalue="Application.org.example.MainCLI" />
-        <item itemvalue="Gradle.untitled4 [jar]" />
-        <item itemvalue="Gradle.DictionaryTest" />
         <item itemvalue="Gradle.DictionaryTest.paginated_2" />
       </list>
     </recent_temporary>

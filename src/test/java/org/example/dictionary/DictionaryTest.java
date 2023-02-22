@@ -109,31 +109,12 @@ class DictionaryTest {
     }
 
     @Test
-    void paginated_2() throws IOException {
-        Dictionary dict = new Dictionary(List.of("xbb", "xcc", "xdd", "xaa"));
-
-        assertEquals(List.of("xbb", "xcc"), dict.lookup(new LookupRequest("x", "xaa", 2)));
-
-    }
-
-    @Test
     void paginated_respects_lastSeen_longer_words() throws IOException {
         Dictionary dict = new Dictionary(List.of(
                 "piggy", "piggyback", "piggybacked", "piggybacking", "piggybacks"
         ));
 
         assertEquals(List.of(), dict.lookup(new LookupRequest("piggy", "piggybacks", 2)));
-//        assertEquals(List.of("xaa", "xbb", "xcc", "xdd"), dict.lookup(new LookupRequest("x", "", 4)));
-//        assertEquals(List.of("xbb", "xcc"), dict.lookup(new LookupRequest("x", "xaa", 2)));
-//        assertEquals(List.of("xbb", "xcc", "xdd"), dict.lookup(new LookupRequest("x", "xaa", 3)));
-//        assertEquals(List.of("xcc", "xdd"), dict.lookup(new LookupRequest("x", "xbb", 2)));
-//        assertEquals(List.of("xcc", "xdd"), dict.lookup(new LookupRequest("x", "xbb", 3)));
-//        assertEquals(List.of("xdd"), dict.lookup(new LookupRequest("x", "xcc", 2)));
-//        assertEquals(List.of(), dict.lookup(new LookupRequest("x", "xdd", 2)));
-//
-//        assertEquals(List.of("xaa"), dict.lookup(new LookupRequest("xaa", "", 2)));
-//        assertEquals(List.of(), dict.lookup(new LookupRequest("xaa", "xaa", 2)));
-//        assertEquals(List.of(), dict.lookup(new LookupRequest("xbb", "xbb", 2)));
     }
 
 

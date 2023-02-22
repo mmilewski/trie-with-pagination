@@ -1,0 +1,1 @@
+Example of output is in `data-and-examples/sample-output-1.txt` for three different words. The example include pagination with a page of size 3.
